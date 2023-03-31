@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------------------
+INDIVIDUAL TESTING / COMPILING / RUNNING / DEBUGGING, COMPARTMENTAL DESIGN
+--------------------------------------------------------------------------------------------
+Maze debugging
+gcc -o maze maze.c ../graphics/graphics.c ../robot/shape.c ../robot/robot.c
+./maze.exe | java -jar ../graphics/drawapp-2.0.jar
+
+Shape debugging
+gcc -o shape shape.c ../graphics/graphics.c robot.c ../maze/maze.c
+./shape.exe | java -jar ../graphics/drawapp-2.0.jar
+
+Robot debugging
+gcc -o robot robot.c ../graphics/graphics.c shape.c ../maze/maze.c
+./robot.exe | java -jar ../graphics/drawapp-2.0.jar
+
+--------------------------------------------------------------------------------------------
+HOLISTIC TESTING / COMPILING / RUNNING / DEBUGGING, UNIVERSAL DESIGN
+--------------------------------------------------------------------------------------------
+Checking the coordination of files so far :D
+gcc -o main main.c ./maze/maze.c ./maze/random.c ./graphics/graphics.c ./robot/shape.c ./robot/robot.c ./robot/robot_controller.c
+./main.exe | java -jar ./graphics/drawapp-2.0.jar
+
+Comping all C files in all the sub-folders
+gcc **/*.c
+
+------------------------------------------------------------------------------
+RUNNING BACKUPS: accessing a directory with a space in its name by adding "":
+cd "7th November Part 3"
+------------------------------------------------------------------------------
