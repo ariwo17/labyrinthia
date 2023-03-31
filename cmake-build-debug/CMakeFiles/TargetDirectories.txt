@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework/cmake-build-debug/CMakeFiles/Proper_Coursework.dir
+/cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:\Users\ariwe\AppData\Local\JetBrains\CLion2022.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/ariwe/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/cygwin/ninja.exe -G Ninja -S "/cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework" -B "/cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/ariwe/Desktop/UCL/Computer Science/Principles of Programming/C/Coursework/Proper Coursework/cmake-build-debug
