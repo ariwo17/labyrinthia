@@ -1,0 +1,4 @@
+5 5 100 50 1 white black portico 0 0 north 4 3 cyan gray black blue 2
+0 4
+2 4
+3 3

@@ -1,0 +1,7 @@
+10 10 50 50 1 white black mandelbrot 0 1 south 5 9 orange purple black green 6
+3 4
+4 6
+5 1
+5 2
+8 2
+8 3
